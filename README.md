@@ -7,5 +7,5 @@
 Feel free to checkout my [portfolio]() website!
 - 📱 Mobile Android 
 - 🧰 I build with: `Kotlin` ...
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- ⚡ I enjoy photography, reading and drink "mate" (it's similar to tea 🧉) 
 - 📫 Reach out to me: maurodaib00@gmail.com
